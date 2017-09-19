@@ -4,9 +4,9 @@
     "description": "Convert assets to inline datauri, ideal to integrate small pictures in your css.",
     "main": "index.js",
     "dependencies": {
-        "event-stream": "x.x.x",
-        "gulp-util": "x.x.x",
-        "mime": "x.x.x"
+        "event-stream": "^3.0",
+        "gulp-util": "^3.0",
+        "mime": "^2.0"
     },
     "author": {
         "name": "G33kLabs",
